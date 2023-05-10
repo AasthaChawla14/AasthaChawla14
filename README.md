@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**AasthaChawla14/AasthaChawla14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><b>Hi, I am Aastha Chawla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+Professional..&hearts;++;Machine+Learning+Engineer,;Computer+Science,;Business+Analytics,;Active+Learner/+Problem+Solver,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+ 
+<br>
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+- I am a graduate student currently pursuing Operations Research at UT Austin.
+- Additionally, I am working with Dell Technologies as a Data Science Intern.
+- Before my graduate program, I worked at American Express as a Senior Business Analyst for 3 years in Finance Data Science and Enterprise Digital Analytics Team.
+- I am looking for full time job opportunities in  United States and I am open to Data Scientist/Data Analyst/Consultant/Product Manager/Business Intelligence roles. If you have anything for me, please reach out through my contact information below.
+- My goal is to leverage my skills and experience in data science to contribute to cutting-edge AI and ML projects and drive meaningful advancements in the field. I also like to challenge myself and evolve as the new Technologies come in place.
+<br><br>
+
+📫 **Contact me by**:
+- Email (aastha.chawla@utexas.edu)
+- [Linkedin](https://www.linkedin.com/in/aastha-chawla-a23057135/)

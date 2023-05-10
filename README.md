@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi, I am Aastha Chawla! </b></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+Professional;++;Machine+Learning+Engineer,;Operations+Research,;Business+Analytics,;Active+Learner/+Problem+Solver,;Love+to+learn+Tech+stuff"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+Professional;++;Machine+Learning+Engineer,;Operations+Research,;Business+Analytics,;Active+Learner/+Problem+Solver,;Love+to+learn+new+Tech+stuff"></a>
 </p>
  
 <br>

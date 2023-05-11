@@ -6,10 +6,9 @@
 </p>
  
 <br>
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+**About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px>
 
 <br>
 
@@ -20,6 +19,6 @@
 - My goal is to leverage my skills and experience in data science to contribute to cutting-edge AI and ML projects and drive meaningful advancements in the field. I also like to challenge myself and evolve as the new Technologies come in place.
 <br><br>
 
-📫 **Contact me by**:
+📫 **Contact me through**:
 - Email (aastha.chawla@utexas.edu)
 - [Linkedin](https://www.linkedin.com/in/aastha-chawla-a23057135/)

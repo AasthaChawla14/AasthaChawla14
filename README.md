@@ -15,7 +15,7 @@
 - Additionally, I am working with Dell Technologies as a Data Science Intern.
 - Before my graduate program, I worked at American Express as a Senior Business Analyst for 3 years in Finance Data Science and Enterprise Digital Analytics Team.
 - I am looking for full time job opportunities in  United States and I am open to Data Scientist/Data Analyst/Consultant/Product Manager/Business Intelligence roles. If you have anything for me, please reach out through my contact information below.
-- My goal is to leverage my skills and experience in data science to contribute to cutting-edge AI and ML projects and drive meaningful advancements in the field. I also like to challenge myself and evolve as the new Technologies come in place.
+- My goal is to leverage my skills and experience in data science to contribute to cutting-edge AI and ML projects and drive meaningful advancements in the field. I also like to challenge myself and evolve as the new technologies come in place.
 <br><br>
 
 📫 **Contact me through**:
